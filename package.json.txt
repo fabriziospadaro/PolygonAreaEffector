@@ -1,0 +1,23 @@
+{
+  "name": "com.spadaro.polygon-area-effector",
+  "version": "1.0.0",
+  "displayName": "Polygon Area Effector",
+  "description": "This tool allows you to create wind and flow forces to move rigidbodies, without having to combine multiple standard unity effectors",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {},
+  "keywords": [
+    "area effector",
+    "physic",
+    "wind",
+    "force",
+    "flow",
+    "polygon area effector",
+    "polygonal area effector",
+  ],
+  "author": {
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
