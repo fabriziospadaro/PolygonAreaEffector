@@ -2,7 +2,7 @@
 ![N|Solid](https://i.imgur.com/sIxn7Se.png)
 
 This tool allows you to create wind and flow forces to move rigidbodies, without having to combine multiple standard unity effectors
-<img src="/demoGif.gif?raw=true">
+![N|Solid](https://imgur.com/ZWi6Go2)
 
 ### How to use:
 * 1- Create your path:
