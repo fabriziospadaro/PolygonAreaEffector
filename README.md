@@ -6,11 +6,18 @@ This tool allows you to create wind and flow forces to move rigidbodies, without
 <img src="/demoGif.gif?raw=true">
 
 ### How to use:
-* 1- Create your path:
+* 1- Import inside unity
+Go to Package manger -> Add package from git url
+
+```sh
+ com.spadaro.polygon-area-effector
+```
+
+* 2- Create your path:
 
 <img src="/demoGif2.gif?raw=true">
 
-* 2- ...
+* 3- ...
 
 Done!
 
