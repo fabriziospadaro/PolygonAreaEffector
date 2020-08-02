@@ -10,7 +10,7 @@ This tool allows you to create wind and flow forces to move rigidbodies, without
 Go to Package manger -> Add package from git url
 
 ```sh
- com.spadaro.polygon-area-effector
+https://github.com/fabriziospadaro/PolygonAreaEffector.git
 ```
 
 * 2- Create your path:
